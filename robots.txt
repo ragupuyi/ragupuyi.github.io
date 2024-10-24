@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ragupuyi.github.io/sitemap/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/TXt/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/HkM/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/dbt/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/LGX/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/OxW/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/FuC/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/SVu/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/bws/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/ncl/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/bCf/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/UGb/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/eVL/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/ASc/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/RJF/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/Qyo/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/bIA/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/CUZ/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/KJW/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/LTP/sitemap_index.ragupuyi
+Sitemap: https://ragupuyi.github.io/dDn/sitemap_index.ragupuyi
